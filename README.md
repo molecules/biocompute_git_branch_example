@@ -3,3 +3,5 @@
 # Conflict happens
 
 You can deal with it
+
+This is for a merge example
